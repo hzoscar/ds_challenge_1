@@ -30,6 +30,13 @@ Se utilizan las bibliotecas Matplotlib y Chart Studio para crear un gráfico de 
 ## 6. Automatización
 Finalmente, se automatiza el proceso. Se utiliza la librería de Python "time" para ejecutar el algoritmo de toma de decisiones cada 5 minutos y actualizar el gráfico.
 
+
+## Colaboradores
+
+- Alura Latam!
+- [@ElProfeAlejo](https://github.com/ElProfeAlejo)
+- [@christianpva](https://github.com/christianpva)
+
 ¡Gracias por visitar mi proyecto!
 
 
