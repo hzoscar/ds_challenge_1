@@ -37,10 +37,6 @@ Finalmente, se automatiza el proceso. Se utiliza la librería de Python "time" p
 - [@ElProfeAlejo](https://github.com/ElProfeAlejo)
 - [@christianpva](https://github.com/christianpva)
 
-## Badge
-
-#alurachallengerobottrading
-
 ¡Gracias por visitar mi proyecto!
 
 
